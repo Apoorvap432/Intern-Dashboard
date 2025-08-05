@@ -4,12 +4,6 @@ The **Intern Portal** is a simple full-stack application that simulates an inter
 
 ---
 
-## 🌐 Live Preview
-
-> *(Optional: If deployed, paste link here)*  
-> https://your-intern-portal-demo-link.com
-
----
 
 ## 📸 Screenshots
 
