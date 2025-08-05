@@ -14,7 +14,8 @@ The **Intern Portal** is a simple full-stack application that simulates an inter
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-<img width="1915" height="704" alt="image" src="https://github.com/user-attachments/assets/85aef4e0-5f6d-41c8-a8a5-064b5acf22c9" />
+<img width="1912" height="883" alt="image" src="https://github.com/user-attachments/assets/f73d8a8d-d910-4e37-8217-4fe5024ab0ee" />
+
 
 
 ### 📝 Sign Up Page
