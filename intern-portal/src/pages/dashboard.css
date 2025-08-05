@@ -1,0 +1,56 @@
+/* Dashboard.css */
+
+.dashboard-container {
+  padding: 40px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f9fafb;
+  min-height: 100vh;
+}
+
+h1 {
+  font-size: 28px;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.info-box {
+  background-color: #eef2ff;
+  border-left: 5px solid #6366f1;
+  padding: 20px;
+  margin-bottom: 30px;
+  border-radius: 5px;
+}
+
+.info-box p {
+  margin: 10px 0;
+  font-size: 16px;
+}
+
+h2 {
+  margin-bottom: 15px;
+  color: #4b5563;
+}
+
+.rewards-section {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.reward-card {
+  background-color: white;
+  border: 1px solid #d1d5db;
+  padding: 20px;
+  border-radius: 8px;
+  width: 220px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.05);
+}
+
+.reward-card h3 {
+  margin-top: 0;
+  color: #111827;
+}
+
+.reward-card p {
+  color: #6b7280;
+}
